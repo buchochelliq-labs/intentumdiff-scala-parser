@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.scala]
+language_name = Scala
+language_short_name = Scala
+monaco_language = scala
+default_filename = Code.scala
+language_file_extensions = 
